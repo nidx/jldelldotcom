@@ -1,0 +1,7 @@
+{
+  "extends":"airbnb",
+  "rules": {
+    "object-curly-spacing": [2, "never"],
+    "react/jsx-no-bind": [2, {"allowArrowFunctions": true}]
+  }
+}
